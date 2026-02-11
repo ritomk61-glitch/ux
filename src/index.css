@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background-color: black;
+  color: white;
+  
+}
+#ki{
+  padding:10px 20px;
+  font-size: 20px;
+  background-color: blanchedalmond;
+  color: black;
+  border-radius: 10px;
+  border: 2em;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+ margin: 200px auto;
+  
+   }
+   #ki:hover{
+    color: red;
+    background-attachment: fixed;
+    background-color: rgb(41, 38, 38);
+   }
+   h1{
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+   }
