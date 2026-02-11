@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "file-1",
+=======
+  "name": "passhide",
+>>>>>>> 23f077b927ce1d3b02065ffe2d7205e1a0bcc819
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +14,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
+=======
+    "@tailwindcss/vite": "^4.1.18",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.18"
+>>>>>>> 23f077b927ce1d3b02065ffe2d7205e1a0bcc819
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
